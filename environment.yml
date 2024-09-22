@@ -3,4 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - python=3.5
-  - numpy
+  - ipywidgets
+  - beakerx=1.2.0
